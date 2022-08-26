@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayanfisco
 - 👀 I’m interested in programming and music
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on php
+- 🌱 I’m currently learning C language
+- 💞️ I’m looking to collaborate on PHP, Javascript and C.
 - 📫 How to reach me: contact: 08146571965, Email: Ayanfiscoss@gmail.com
 
 <!---
